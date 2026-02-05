@@ -56,6 +56,9 @@ print("Sorry for the trouble " + fourth_pop.title())
 print("You are still invited " + people[0].title())
 print("You are still invited " + people[1].title())
 
+print("We are inviting " + str(len(people)) + " people")
+
 del people[0]
 del people[0]
 print(people)
+
