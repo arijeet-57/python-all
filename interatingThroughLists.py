@@ -55,6 +55,7 @@
 
 #6. Cube of numbers
 # cube = [num**3 for num in range(1,11)]
+# print(cube)
 
 cube = []
 for i in range(1,11):
@@ -63,6 +64,6 @@ for i in range(1,11):
 print(cube)
 
 
-# print(cube)
 
-#7. 
+
+
