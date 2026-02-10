@@ -36,6 +36,6 @@ def number_vice_versa():
     print(reversed_str)
 
         
-number_vice_versa()
+# number_vice_versa()
 # calculator_function() 
 # multiplication_table()
