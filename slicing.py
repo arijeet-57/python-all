@@ -14,5 +14,4 @@ for i in users[0:2]:
 # Admion
 # Guest
 
-
-
+#looping through a slice
